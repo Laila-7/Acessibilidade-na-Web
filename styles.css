@@ -102,12 +102,12 @@ h2 {
     color: var(--azul-claro);
 }
 
-#galeria {
+#Lidos {
     background-color: ##0036A3;
 
 }
 
-.fundo-galeria {
+.fundo-lidos {
     background: url('img/flor-bottom-direita.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
