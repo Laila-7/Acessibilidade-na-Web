@@ -4,7 +4,7 @@
 :root {
     --azul-claro: #87BDE8;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
+    --alto-contraste-texto: #86C9E3;
     --alto-contraste-link: #00FFF2;
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #86C9E3;
 }
 
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #86C9E3;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
